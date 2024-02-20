@@ -18,4 +18,7 @@ This project was part of SKKU 2023 Fall Semester's Capstone Design Course
 
    # initialize local django server
    py manage.py runserver
+
+   # API documentation on Swagger
+   localhost:port/api/schema/swagger-ui/#/
    ```
