@@ -1,5 +1,6 @@
 # VoCard
 An iOS Application focused on helping users learn English Vocabulary words with the help of the Forgetting Curve and AI tools.
+
 This project was part of SKKU 2023 Fall Semester's Capstone Design Course
 # Features
 1. Sleek Card-based UI/UX Design
